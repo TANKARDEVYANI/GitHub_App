@@ -1,5 +1,7 @@
 import streamlit
 
 streamlit.title('My parents new healty Diner')
-
-print('Hello Github')
+streamlit.header('Breakfast Menu')
+streamlit.text('Omega 3 and Blueberry Oatmeal')
+streamlit.text('Kale,Spanich and Rocket Smoothie')
+streamlit.text('Hard Boiled Free-Ranged Egg')
